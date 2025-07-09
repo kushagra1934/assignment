@@ -11,6 +11,7 @@ import re
 from typing import Optional
 import uvicorn
 
+
 app = FastAPI(title="Emotion Analysis API", version="1.0.0")
 
 # Enable CORS for frontend integration
