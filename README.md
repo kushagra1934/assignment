@@ -1,4 +1,4 @@
-# Emotion Reflection Tool
+# Reflecto - Emotion Reflection Tool
 
 A mobile-first web application that analyzes emotions from text reflections using a Next.js frontend and Python FastAPI backend.
 
@@ -144,6 +144,9 @@ The frontend will be available at: **http://localhost:3000**
    - "I'm frustrated with this difficult problem"
 3. Click **"Analyze Emotion"** or press **Cmd/Ctrl + Enter**
 4. View the emotion analysis results with confidence score and insights
+
+## Screenshots from app
+![image](https://github.com/user-attachments/assets/60db4172-899c-4b3b-9a40-b0457e540f63)
 
 ## 📁 Project Structure
 
