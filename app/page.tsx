@@ -169,7 +169,7 @@ export default function EmotionReflectionTool() {
                   isDarkMode ? "text-white" : "text-gray-900"
                 }`}
               >
-                Reflection Space
+                Reflecto
               </h1>
               <p
                 className={`text-sm ${
